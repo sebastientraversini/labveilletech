@@ -1,4 +1,4 @@
 # labveilletech
 
-[contact](contact.md)
+[contact](content/contact.md)
 
